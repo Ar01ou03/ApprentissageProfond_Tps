@@ -3,7 +3,7 @@
 
 
 
-### 🔹 TP1 : Introduction à OpenAI Gym
+###  TP1 : Introduction à OpenAI Gym
 - Exploration des environnements CartPole et FrozenLake
 - Implémentation de politiques aléatoires
 - Bases des espaces d'états et d'actions
@@ -11,7 +11,7 @@
 TP1 : Nous avons découvert les bases du Reinforcement Learning avec l'environnement CartPole d'OpenAI Gym. Après avoir pris en main la structure des espaces d'états et d'actions, nous avons implémenté une politique aléatoire puis un contrôle manuel pour comprendre comment interagir avec un environnement RL. Ce TP nous a permis d'analyser les observations et récompenses retournées par l'agent.
 
 
-### 🔹 TP2 : Q-Learning avec FrozenLake
+###  TP2 : Q-Learning avec FrozenLake
 - Implémentation d'une Q-table
 - Algorithme de mise à jour Q-Learning
 - Stratégie epsilon-greedy
